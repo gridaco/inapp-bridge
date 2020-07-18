@@ -1,3 +1,5 @@
+![](documents/logo.png)
+
 # In App Bridge - "Native Cross platform webview made easy."
 
 Bridge for Web & Native apps for seamless integration and inter communication.
