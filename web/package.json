@@ -1,5 +1,5 @@
 {
-  "name": "inappbridge",
+  "name": "@bridged.xyz/inappbridge",
   "version": "0.1.2",
   "private": false,
   "dependencies": {
@@ -8,11 +8,8 @@
     "@types/node": "^12.0.0",
     "typescript": "~3.7.2"
   },
-  "scripts": {
-
-  },
-  "eslintConfig": {
-  },
+  "scripts": {},
+  "eslintConfig": {},
   "files": [
     "LICENSE",
     "README.md",
