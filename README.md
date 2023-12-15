@@ -1,3 +1,5 @@
+> # Archived - This project is now part of [dynamix](https://github.com/gridaco/dynamix)
+
 ![](documents/logo.png)
 
 # In App Bridge - "Native Cross platform webview made easy."
